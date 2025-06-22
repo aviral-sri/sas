@@ -158,6 +158,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- YOLOv8 by Ultralytics
+- YOLOv11 by Ultralytics
 - OpenCV for image processing
 - Python community for awesome libraries
