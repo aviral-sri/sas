@@ -4,7 +4,7 @@ A computer vision-based attendance system that uses YOLO (You Only Look Once) fo
 
 ## Features
 
-- 🎯 Accurate head detection using YOLOv8 model
+- 🎯 Accurate head detection using YOLOv11 model
 - 📊 Processes single images with head count results
 - 📝 JSON output for easy integration with other systems
 - 🚀 Efficient processing with support for GPU acceleration
